@@ -1,2 +1,2 @@
-# Exploratory-Data-Analysis
-The Usecase revoles around extracting the hidden pattern from data.
+# Investment Trend Analysis for Spark Funds
+This project involves analyzing global investment trends for Spark Funds, an asset management company. The goal is to provide insights to the CEO to help identify promising investment opportunities and make effective investment decisions. The analysis covers various aspects of the investment landscape, highlighting patterns and trends that can guide strategic decision-making.
